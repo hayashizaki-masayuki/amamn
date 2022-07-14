@@ -1,4 +1,4 @@
-# Testing framework for porting and optimizing Qoantum computing - AMAMN Framework
+# Testing framework for porting and optimizing Quantum computing - AMAMN Framework
 
 We use many computers every day.   
   
