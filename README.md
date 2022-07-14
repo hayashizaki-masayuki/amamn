@@ -1,4 +1,4 @@
-# Testing framework for porting and optimizing Qoantum computing - AMAMN Framework
+# Testing framework for porting and optimizing Quantum computing - AMAMN Framework
 
 We use many computers every day.   
   
@@ -18,7 +18,10 @@ Conventional computers and Quantum computers are already connected.
   
 Are they really connected correctly?  Are they working properly?  
   
-We will continue to research methods for validating and testing it.  
+We will continue to research methods for validating and testing it. 
+
+AMAMN Framework  
+https://ama.mn
   
 ## AMAMN Framework
 [Hayashizaki Masayuki - Developer](https://ama.mn)
