@@ -24,5 +24,5 @@ We will continue to research methods for validating and testing it.
 [Hayashizaki Masayuki - Developer](https://ama.mn)
 
 ## Links
-[D-Wave Systems Inc](https://github.com/dwavesystems)
+[D-Wave Systems Inc - GitHub](https://github.com/dwavesystems)  
 [AkariSpetification](https://akari.mn)
