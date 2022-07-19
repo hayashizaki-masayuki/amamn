@@ -23,6 +23,9 @@ We will continue to research methods for validating and testing it.
 ## AMAMN Framework
 [Hayashizaki Masayuki - Developer](https://ama.mn)
 
+## Contributions
+[linux-kernel - 2022-07-05](https://lkml.org/lkml/2022/7/5/172)
+
 ## Links
 [D-Wave Systems Inc - GitHub](https://github.com/dwavesystems)  
 [AkariSpetification](https://akari.mn)
