@@ -21,11 +21,11 @@ Are they really connected correctly?  Are they working properly?
 We will continue to research methods for validating and testing it.  
   
 ## AMAMN Framework
-[Hayashizaki Masayuki - Developer](https://ama.mn)
+- [Hayashizaki Masayuki - Developer & Founder](https://ama.mn)
 
 ## Contributions
-[linux-kernel - 2022-07-05](https://lkml.org/lkml/2022/7/5/172)
-
+- [linux-kernel - 2022-07-05](https://lkml.org/lkml/2022/7/5/172)
+- [AkariSpetification - co-founder](https://akari.mn)
 ## Links
-[D-Wave Systems Inc - GitHub](https://github.com/dwavesystems)  
-[AkariSpetification](https://akari.mn)
+- [D-Wave Systems Inc - GitHub](https://github.com/dwavesystems)  
+- [AkariSpetification - co-founder](https://akari.mn)
