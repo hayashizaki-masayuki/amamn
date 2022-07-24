@@ -26,7 +26,7 @@ We will continue to research methods for validating and testing it.
 ## Contributions
 - [linux-kernel - 2022-07-05](https://lkml.org/lkml/2022/7/5/172)
 - [AkariSpetification - Developer & Co-founder](https://akari.mn)
-- [Chatbot with Kafka](https://takahashi-akari.github.io/kafka_chatbot/)
+- [Kafka Chatbot](https://takahashi-akari.github.io/kafka_chatbot/)
 
 ## Links
 - [D-Wave Systems Inc - GitHub](https://github.com/dwavesystems)  
